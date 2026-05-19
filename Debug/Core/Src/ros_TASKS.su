@@ -1,0 +1,4 @@
+../Core/Src/ros_TASKS.c:51:6:angles_callback	24	static
+../Core/Src/ros_TASKS.c:68:6:other_callback	24	static
+../Core/Src/ros_TASKS.c:109:6:koeffs_callback	40	static
+../Core/Src/ros_TASKS.c:179:6:StartRosTask	456	static

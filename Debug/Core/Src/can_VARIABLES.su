@@ -1,0 +1,2 @@
+../Core/Src/can_VARIABLES.c:100:6:Set_initial_koeffs	4	static
+../Core/Src/can_VARIABLES.c:130:6:prepare_frames	4	static

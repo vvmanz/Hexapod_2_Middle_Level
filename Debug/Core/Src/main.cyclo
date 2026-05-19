@@ -1,0 +1,13 @@
+../Core/Src/main.c:283:20:ProcessQueue	2
+../Core/Src/main.c:300:5:main	1
+../Core/Src/main.c:376:6:SystemClock_Config	4
+../Core/Src/main.c:423:6:StartCanTask	29
+../Core/Src/main.c:520:6:SaveMotorToSlot	9
+../Core/Src/main.c:611:6:LoadMotorFromSlot	10
+../Core/Src/main.c:705:6:LoadAllCurrentSlots	1
+../Core/Src/main.c:713:6:SaveAllCurrentSlots	1
+../Core/Src/main.c:721:6:InitSlotsFromTemplate	3
+../Core/Src/main.c:730:6:reset_all_variables_to_zero	1
+../Core/Src/main.c:758:5:__io_putchar	1
+../Core/Src/main.c:772:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:788:6:Error_Handler	1

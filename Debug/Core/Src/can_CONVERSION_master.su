@@ -1,0 +1,4 @@
+../Core/Src/can_CONVERSION_master.c:3:9:ConvertBytesToInt32	16	static
+../Core/Src/can_CONVERSION_master.c:8:6:BridgeDecode	16	static
+../Core/Src/can_CONVERSION_master.c:39:6:Prepare_set_koeffs	4	static
+../Core/Src/can_CONVERSION_master.c:258:6:Prepare_set_angles	16	static

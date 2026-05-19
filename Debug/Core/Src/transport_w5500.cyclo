@@ -1,0 +1,11 @@
+../Core/Src/transport_w5500.c:16:6:W5500_Select	1
+../Core/Src/transport_w5500.c:19:6:W5500_Unselect	1
+../Core/Src/transport_w5500.c:22:6:W5500_ReadBuff	1
+../Core/Src/transport_w5500.c:25:6:W5500_WriteBuff	1
+../Core/Src/transport_w5500.c:28:9:W5500_ReadByte	1
+../Core/Src/transport_w5500.c:33:6:W5500_WriteByte	1
+../Core/Src/transport_w5500.c:56:6:W5500_Init	1
+../Core/Src/transport_w5500.c:81:6:w5500_transport_open	1
+../Core/Src/transport_w5500.c:86:6:w5500_transport_close	1
+../Core/Src/transport_w5500.c:90:8:w5500_transport_write	4
+../Core/Src/transport_w5500.c:106:8:w5500_transport_read	7
